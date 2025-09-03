@@ -1,2 +1,8 @@
 # OpenPost
-OpenPost A New Social Media Blogging Platform. On this GitHub Respo we Share Updates,Bugs,Docs,Codes! OpenPost Licence is Reserved.
+
+
+***OpenPost A New Social Media Blogging Platform.***
+---
+
+**License :**
+All Rights **Reserved**.
