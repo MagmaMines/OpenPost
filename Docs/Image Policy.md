@@ -2,7 +2,7 @@
 ---
 Documention #1
 ---
-
+![LEGAL!](https://raw.githubusercontent.com/MagmaMines/OpenPost/refs/heads/main/Docs/Legal.png)
 
 **Image Policy** : If You Published Any Sensitive,18+,Private Images so we can take Action Against Your **Media**.
 
@@ -15,3 +15,5 @@ We can Take Actions Like Deleting Your **Account**,**Ban Internet Protocol Addre
 # Copyright Images
 
 Using Copyright Images is  in **Fair Use** but with limited access to The OpenPost User.
+---
+ALL RIGHTS RESERVED ©️
