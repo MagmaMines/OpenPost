@@ -1,7 +1,5 @@
 
 # OpenPost A New Social Media Blogging Platform.
-[![Chat on Discord](https://img.shields.io/discord/1381650306122649820?color=%239B59B6&label=chat%20on%20discord)](https://discord.gg/MVKGsBgmkm)
-
 
 ------
 - OpenPost a Social Blogging Platform it’s Supports Markdown in the app. 👀
